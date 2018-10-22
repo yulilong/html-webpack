@@ -69,3 +69,13 @@ webpack output is served from /
 ```
 
 稍等一会，就会在项目的目录中看见一个dist文件夹，里面就是生成的项目
+
+## 5. 一些文件介绍
+
+### 5.1 .editorconfig
+
+`EditorConfig`是一套用于统一代码格式的解决方案，很多项目都有用到，比如`Bootstrap`、`jQuery`、`Underscore`和`Ruby`等等。
+
+官网：https://editorconfig.org/
+
+有的编辑器需要插件才能应用这个设置，有的编辑器默认就应用这个设置了，比如vscode编辑器。
